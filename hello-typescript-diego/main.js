@@ -1,7 +1,8 @@
-var minhaVar = 'minha variavel';
+var minhaVar = "minha variavel";
 function minhaFunc(x, y) {
     return x + y;
 }
+//es6-features.org
 //ES 6 ou ES 2015
 var num = 2;
 var PI = 3.14;
@@ -18,5 +19,5 @@ var Matematica = /** @class */ (function () {
     };
     return Matematica;
 }());
-var n1 = 'sdfsdf';
+var n1 = 'sfsdada';
 n1 = 4;
